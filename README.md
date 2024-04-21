@@ -1,7 +1,7 @@
 # AirBNB Bangkok Capstone-2 
 
 ## Background 
-Airbnb merupakan platform online untuk orang menyediakan atau menyewa tempat tinggal sementara. Melalui website atau aplikasi airbnb, pengguna dapat menemukan berbagai jenis properti yang tersedia untuk di sewa, seperti apartemen, kamar pribadi, hotel, dan sebagainya. Airbnb kini tersedia di berbagai kota, salah satunya adalah Bangkok. 
+Airbnb merupakan platform online untuk orang menyediakan atau menyewa tempat tinggal sementara. Melalui website atau aplikasi airbnb, pengguna dapat menemukan berbagai jenis properti yang tersedia untuk di sewa, seperti apartemen, kamar pribadi, hotel, dan sebagainya. Airbnb kini tersedia di berbagai kota, salah satunya adalah Bangkok.
 
 ## Rumusan Masalah : 
 - wilayah mana saja yang akan menjadi prioritas utama dalam penentuan listing perusahaan.
@@ -14,9 +14,7 @@ Airbnb merupakan platform online untuk orang menyediakan atau menyewa tempat tin
 - memberikan rekomendasi kepada para stakeholder dan pihak terkait seperti pemerintah dan dinas pariwisata dalam pengembangan pariwisata di bangkok kedepan
 
 ## Deskripsi Tabel 
-Dataset ini berisi data transaksi dari perusahaan SaaS fiktif yang menjual perangkat lunak penjualan dan pemasaran kepada perusahaan lain (B2B).
-
-- ***Setiap `baris` mewakili sebuah `transaksi` dalam sekali reservasi.***
+Dataset ini berisi data revervasi dan host yang memiliki penginapan di AirBNB
 
 | No. | Fitur | Deskripsi | Detail |
 |-|-|-|-|
