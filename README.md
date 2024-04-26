@@ -36,3 +36,6 @@ https://public.tableau.com/app/profile/akas.steven.tambunan/viz/AirBNBBangkokDas
 | 11. | **number_of_reviews** | Jumlah ulasan yang dimiliki dalam daftar. |
 | 12. | **availability_365** | ketersediaan_x. Kalender menentukan ketersediaan daftar x hari di masa depan. Perhatikan bahwa daftar mungkin tersedia karena sudah dipesan oleh tamu atau diblokir oleh pihak tersebut tuan rumah. |
 | 13. | **number_of_reviews_ltm** | Jumlah ulasan yang dimiliki listingan (dalam 12 bulan terakhir). |
+
+Link Tableu Publik : 
+https://public.tableau.com/app/profile/akas.steven.tambunan/viz/AirBNBBangkokDashboard-Akas/Home?publish=yes
